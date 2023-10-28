@@ -23,6 +23,36 @@ const Sdata = [
         sname:"Life OF Pie",
         link: "https://www.netflix.com/in/title/80100172" ,
     },
+    {
+        imgsrc: "https://wallpaperaccess.com/full/1605503.jpg",
+        title: "Netflix Original",
+        sname: "Dark",
+        link: "https://www.netflix.com/in/title/80100172",
+    },
+    {
+        imgsrc: "https://wallpaperaccess.com/full/1605503.jpg",
+        title: "Netflix Original",
+        sname: "Dark",
+        link: "https://www.netflix.com/in/title/80100172",
+    },
+    {
+        imgsrc: "https://wallpaperaccess.com/full/1605503.jpg",
+        title: "Netflix Original",
+        sname: "Dark",
+        link: "https://www.netflix.com/in/title/80100172",
+    },
+    {
+        imgsrc: "https://wallpaperaccess.com/full/1605503.jpg",
+        title: "Netflix Original",
+        sname: "Dark",
+        link: "https://www.netflix.com/in/title/80100172",
+    },
+    {
+        imgsrc: "https://wallpaperaccess.com/full/1605503.jpg",
+        title: "Netflix Original",
+        sname: "Dark",
+        link: "https://www.netflix.com/in/title/80100172",
+    },
 ]
 
 export default Sdata;
