@@ -2,7 +2,9 @@ import React from "react";
 import { Fragment } from "react";
 import "./index.css";
 
-function Card(props) {
+
+// using flat arrow function
+const Card = (props)=> {
   console.log(props);
   return (
     <Fragment>
