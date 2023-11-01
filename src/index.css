@@ -1,11 +1,11 @@
 *{
   padding: 0;
   margin: 0;
-  box-sizing: border-box;
-  background-color: #a7a7a7;
+  /* box-sizing: border-box;
+  background-color: #a7a7a7; */
 }
 
-.heading{
+/* .heading{
   text-align: center;
   padding: 30px 0;
   font-size: 25px;
@@ -15,13 +15,35 @@
   letter-spacing: 0.2rem;
   color: rgba(0, 0, 0, 0.868);
   background-color :rgba(253, 252, 252, 0.691);
+} */
+.heading_style{
+  text-align: center;
+  background-color: white;
+  margin-top: 0;
+  padding: 20px;
+  text-transform: uppercase;
+  font-family:sans-serif;
 }
-
-.card_image{
+.slot_inner{
+  text-align: center;
+  font-size: 10px;
+}
+.slotMachine{
+  display: flex;
+  width: 30%;
+  border: 3px solid gray;
+  line-height: 30px;
+  flex-direction: column;
+  justify-items: center;
+  margin-left: 35%;
+  /* border-radius: 20px; */
+  margin-top: 20px;
+}
+/* .card_image{
   width: 300px;
   height: 235px;
-  border-radius: 12px;
-  /* border-top-right-radius: 12px; */
+  border-radius: 12px; */
+  /* border-top-right-radius: 12px;
   padding: 16px 24px 24px 24px;
   background-color: white;
 }
@@ -79,4 +101,4 @@ button{
   transform: scale(.8);
   border: 2px solid rgba(140, 135, 135, 0.759);
   border-radius: 30px;
-}
+} */
